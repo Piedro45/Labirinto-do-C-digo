@@ -1,2 +1,2 @@
-# Labirinto-do-C-digo
+# Labirinto-do-Código
 Site pra começar bem?
